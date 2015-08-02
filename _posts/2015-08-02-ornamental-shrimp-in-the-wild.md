@@ -4,7 +4,7 @@ title:  "Ornamental Shrimp in the Wild"
 date: 2015-08-02
 categories: shrimp biology aquarium
 ---
-![Red cherry shrimp from my aquarium in highschool](/images/redcherryshrimp.jpg) A red cherry shrimp from my aquarium in highschool
+![Red cherry shrimp from my aquarium in highschool](/images/redcherryshrimp.jpg) _A red cherry shrimp from my aquarium in highschool_
 
 While researching shrimps I encountered a fascinating paper titled, "Two Asian fresh water shrimp species found in a thermally polluted stream system in North Rhine-Westphalia, Germany." [(PDF)](Werner Klotz, Friedrich Wilhelm Miesen, Sebastian Hüllen and Fabian Herder)
 
